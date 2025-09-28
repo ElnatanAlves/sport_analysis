@@ -1,0 +1,19 @@
+﻿date,season,round,opponent,home_away,corinthians_goals,opponent_goals,result,match_id,venue
+2023-04-22T21:30:00+00:00,2023,Regular Season - 2,Sao_Paulo,Fora,0,3,D,1005661,Estádio Cícero Pompeu de Toledo
+2023-04-29T21:30:00+00:00,2023,Regular Season - 3,Santos,Fora,2,3,D,1005672,Estádio Urbano Caldeira
+2023-07-30T19:00:00+00:00,2023,Regular Season - 17,Palmeiras,Casa,1,4,D,1005818,Estádio Raimundo Sampaio
+2023-08-27T19:00:00+00:00,2023,Regular Season - 21,Sao_Paulo,Casa,2,1,V,1005858,Estádio Raimundo Sampaio
+2023-09-03T21:30:00+00:00,2023,Regular Season - 22,Santos,Casa,2,0,V,1005868,Estádio Raimundo Sampaio
+2023-11-30T00:30:00+00:00,2023,Regular Season - 36,Palmeiras,Fora,0,4,D,1006001,Allianz Parque
+2022-04-24T19:00:00+00:00,2022,Regular Season - 3,Santos,Fora,0,3,D,838015,Estádio Urbano Caldeira
+2022-06-12T19:00:00+00:00,2022,Regular Season - 11,Sao_Paulo,Fora,0,1,D,838093,Estádio Cícero Pompeu de Toledo
+2022-07-21T23:00:00+00:00,2022,Regular Season - 18,Palmeiras,Casa,0,1,D,838161,Estádio Raimundo Sampaio
+2022-08-14T21:00:00+00:00,2022,Regular Season - 22,Santos,Casa,1,0,V,838201,Estádio Raimundo Sampaio
+2022-10-06T23:00:00+00:00,2022,Regular Season - 30,Sao_Paulo,Casa,1,2,D,838281,Estádio Raimundo Sampaio
+2022-11-10T00:30:00+00:00,2022,Regular Season - 37,Palmeiras,Fora,1,2,D,838354,Allianz Parque
+2021-06-20T14:00:00+00:00,2021,Regular Season - 5,Palmeiras,Fora,1,2,D,688950,Allianz Parque
+2021-07-03T22:00:00+00:00,2021,Regular Season - 9,Santos,Casa,2,0,V,688992,Estádio Raimundo Sampaio
+2021-09-22T23:30:00+00:00,2021,Regular Season - 19,Sao_Paulo,Fora,0,0,E,689091,Estádio Cícero Pompeu de Toledo
+2021-10-07T00:30:00+00:00,2021,Regular Season - 24,Palmeiras,Casa,2,1,V,689142,Estádio Raimundo Sampaio
+2021-10-23T20:00:00+00:00,2021,Regular Season - 28,Santos,Fora,2,0,V,689181,Estádio Urbano Caldeira
+2021-12-10T00:30:00+00:00,2021,Regular Season - 38,Sao_Paulo,Casa,2,0,V,689282,Estádio Raimundo Sampaio
