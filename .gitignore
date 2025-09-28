@@ -403,3 +403,5 @@ FodyWeavers.xsd
 # CSV Ignore
 *.csv
 *.xlsx
+*.xls
+*.xlsm
