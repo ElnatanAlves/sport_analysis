@@ -8,5 +8,5 @@ Os dados brutos utilizados neste projeto, incluindo o histórico real de partida
 Limitação de Acesso (API Gratuita) - É importante notar que o acesso aos dados foi realizado através da camada gratuita da API, o que impôs uma limitação de extração. O dataset reflete dados extraídos em 19 ações limitadas, o que pode afetar a abrangência ou a profundidade de certas análises estatísticas, mas não compromete a metodologia de simulação e visualização de Os dados obtido do mapa de calor foram realizados atráves de posições teóricas baseadas nas posições hipoteticas do jogadores de Meio de Campo e Lateral. O mapa foi criado com o objeto de apenas gerar mais insights. 
 
 ## Imagens geradas
-<img width="1187" height="590" alt="image" src="https://github.com/user-attachments/assets/9be3d2d1-af6a-4bae-8145-4c18e07fffc4" />
+<img width="925" height="689" alt="image" src="https://github.com/user-attachments/assets/895c07f2-0501-42e6-85ae-dc2d55f04719" />
 <img width="925" height="689" alt="image" src="https://github.com/user-attachments/assets/8027db4b-ccb1-4240-90bc-067e9dccfb0b" />
