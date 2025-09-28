@@ -9,4 +9,4 @@ Limitação de Acesso (API Gratuita) - É importante notar que o acesso aos dado
 
 ## Imagens geradas
 <img width="925" height="689" alt="image" src="https://github.com/user-attachments/assets/895c07f2-0501-42e6-85ae-dc2d55f04719" />
-<img width="925" height="689" alt="image" src="https://github.com/user-attachments/assets/8027db4b-ccb1-4240-90bc-067e9dccfb0b" />
+<img width="1187" height="590" alt="image" src="https://github.com/user-attachments/assets/327460a5-db54-4619-988d-ddf711aec845" />
