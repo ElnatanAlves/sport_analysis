@@ -1,4 +1,4 @@
-# Análise de Desempenho e Visualização de Corinthians
+Análise de Desempenho e Visualização de Corinthians
 
 ## Este projeto tem como objetivo principal:
 Realizar uma análise estatística preliminar do desempenho do Sport Club Corinthians Paulista, utilizando os dados de histórico de partidas (temporadas 2022-2024), focada em métricas como Saldo de Vitórias, Porcentagem de Vitórias e Média de Gols (baseado em corinthians_historico_completo.csv e arquivos de análise agregada). Aplicar técnicas de visualização de dados espaciais (Mapas de Calor/Heatmaps) para simular e analisar o posicionamento tático e a movimentação de jogadores específicos (como Fagner e meio-campistas Box-to-Box), traduzindo padrões táticos em insights visuais.
